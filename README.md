@@ -8,3 +8,9 @@ A python visualization of the A* path finding algorithm. It allows you to pick y
 # Requirements
 - Python 3.x
 - Pygame
+
+## how to use
+* select start  point and end point with left click
+* undo the selecton of a spot with right click
+* hit space to start
+* ctrl + c to restart
